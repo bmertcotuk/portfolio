@@ -12,42 +12,42 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
   {
-    imgSrc: '/images/java.svg',
+    imgSrc: '/portfolio/images/java.svg',
     label: 'Java',
     desc: 'Backend Language'
   },
   {
-    imgSrc: '/images/springboot.svg',
+    imgSrc: '/portfolio/images/springboot.svg',
     label: 'SpringBoot',
     desc: 'Microservices Framework'
   },
   {
-    imgSrc: '/images/postgresql.svg',
+    imgSrc: '/portfolio/images/postgresql.svg',
     label: 'PostgreSQL',
     desc: 'Relational Database'
   },
   {
-    imgSrc: '/images/mongodb.svg',
+    imgSrc: '/portfolio/images/mongodb.svg',
     label: 'MongoDB',
     desc: 'NoSQL Database'
   },
   {
-    imgSrc: '/images/aws.svg',
+    imgSrc: '/portfolio/images/aws.svg',
     label: 'AWS',
     desc: 'Cloud Platform'
   },
   {
-    imgSrc: '/images/docker.svg',
+    imgSrc: '/portfolio/images/docker.svg',
     label: 'Kubernetes & Docker',
     desc: 'Container Orchestration'
   },
   {
-    imgSrc: '/images/kafka.svg',
+    imgSrc: '/portfolio/images/kafka.svg',
     label: 'Kafka',
     desc: 'Event Streaming'
   },
   {
-    imgSrc: '/images/angular.svg',
+    imgSrc: '/portfolio/images/angular.svg',
     label: 'Angular',
     desc: 'Frontend Framework'
   }

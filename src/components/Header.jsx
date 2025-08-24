@@ -29,7 +29,7 @@ const Header = () => {
             className="logo"
           >
             <img
-              src="/images/logo.png"
+              src="/portfolio/images/logo.png"
               width={40}
               height={40}
               alt="Mert Cotuk"

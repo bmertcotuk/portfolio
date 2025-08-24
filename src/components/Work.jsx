@@ -12,25 +12,25 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
-    imgSrc: '/images/project_coin_calculator.png',
+    imgSrc: '/portfolio/images/project_coin_calculator.png',
     title: 'Full Stack Web Application',
     tags: ['Java', 'SpringBoot', 'VueJS', 'PostgreSQL'],
     projectLink: 'https://github.com/bmertcotuk/coin-calculator'
   },
   {
-    imgSrc: '/images/springboot.svg',
+    imgSrc: '/portfolio/images/springboot.svg',
     title: 'Health Record Manager',
     tags: ['Java', 'SpringBoot', 'H2', 'REST'],
     projectLink: 'https://github.com/bmertcotuk/health-record-manager'
   },
   {
-    imgSrc: '/images/springboot.svg',
+    imgSrc: '/portfolio/images/springboot.svg',
     title: 'Library Manager',
     tags: ['Java', 'SpringBoot', 'H2', 'REST'],
     projectLink: 'https://github.com/bmertcotuk/library-manager'
   },
   {
-    imgSrc: '/images/project_lyrics_genius.jpeg',
+    imgSrc: '/portfolio/images/project_lyrics_genius.jpeg',
     title: 'Java Swing (GUI) Application',
     tags: ['Java', 'Swing GUI'],
     projectLink: 'https://github.com/bmertcotuk/lyrics-genius'
