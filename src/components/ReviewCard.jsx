@@ -15,7 +15,7 @@ const ReviewCard = ({
   company
 }) => {
   return (
-    <div className="bg-zinc-800 p-5 rounded-xl min-w-[320px] flex flex-col lg:min-w-[420px]">
+    <div className="bg-zinc-800 p-5 rounded-xl min-w-[320px] flex flex-col lg:min-w-[420px] h-full">
 
       <p className="text-zinc-400 mb-8">
         {content}

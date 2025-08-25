@@ -47,7 +47,7 @@ const Hero = () => {
             <ButtonPrimary
               label="Download CV"
               icon="download"
-              href="https://drive.google.com/uc?export=download&id=1rNKwb9DI9KPE-lam_xue2aSUGIMLI6p5"
+              href="https://drive.google.com/uc?export=download&id=1I-72QpHwoPc8mx6tAXpU9rVwB2avQZ2B"
               download="Mert_Cotuk_CV.pdf"
             />
 
